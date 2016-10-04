@@ -1,0 +1,51 @@
+.bgaudio{
+    opacity: 0.3;
+}
+
+.bgaudio:hover{
+    opacity: 1;
+}
+
+.awardlist{
+    margin-top: -15%;
+}
+
+.synopsis{
+    width: 37% !important;
+    float: left;
+    text-align: left;
+}
+
+.synopsishead{
+    transform: rotate(-90deg);
+    color: teal;
+    float: left;
+    margin-top: 10%;
+}
+
+.synopsisblock{
+    margin-left: -13%;
+}
+
+.director{
+    margin-left: -5%;
+}
+
+.director p{
+    width: 40%;
+    text-align: left;
+    float: right;
+}
+
+.director img{
+    width: 30%;
+    margin-top: 3%;
+}
+
+.director h1{
+    transform: rotate(-90deg);
+    color: teal;
+    float: left;
+    margin-top: 20%;
+    margin-left: -5%;
+}
