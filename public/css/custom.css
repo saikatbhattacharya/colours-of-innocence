@@ -72,6 +72,18 @@
     margin-left: -5%;
 }
 
+.castncrew{
+    margin-left: -5%;
+}
+ .castncrew h1{
+    transform: rotate(-90deg);
+    color: #20B2AA;
+    float: left;
+    margin-top: 0%;
+    margin-left: 0%;
+    text-shadow: 2px 2px black;
+}
+
 #section0 p{
     color: bisque;
     font-size: 30px;
@@ -94,4 +106,20 @@
 
 .nav {
     margin-right: -8%;
+}
+
+p{
+    text-shadow: 2px 2px black;
+}
+
+.cast{
+    float: right !important;
+    color: teal;
+    text-shadow: 1px 1px black !important;
+}
+
+.casthead{
+    float: right !important;
+    color: antiquewhite;
+    text-shadow: 1px 1px black !important;
 }
