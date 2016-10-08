@@ -26,7 +26,7 @@ jQuery(function ($) {
     
 /* FULLPAGE */
 	$('#fullpage').fullpage({
-        anchors: ['1stPage', '2ndPage', '3rdPage', '4thPage', '5thPage'],
+        anchors: ['Home', 'Synopsis', 'DirectorsNote', 'ProducersPage', 'CastnCrew'],
         menu: '#menu',
         scrollingSpeed: 800,
         autoScrolling: true,

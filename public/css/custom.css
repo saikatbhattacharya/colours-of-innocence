@@ -29,14 +29,15 @@
 }
 
 .director p{
-    width: 45%;
+    width: 65%;
     text-align: left;
     float: right;
+    padding: 1%;
 }
 
 .director img{
-    width: 30%;
-    margin-top: 3%;
+    width: 15%;
+    margin-top: 5%;
 }
 
 .director h1{
