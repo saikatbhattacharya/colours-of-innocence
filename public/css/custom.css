@@ -63,3 +63,11 @@
     animation-name: homepage;
     animation-duration: 10s;
 }
+
+.nav li{
+    margin-right: -3% !important;
+}
+
+.nav {
+    margin-right: -8%;
+}
