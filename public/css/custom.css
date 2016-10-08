@@ -1,13 +1,10 @@
 .bgaudio{
-    opacity: 0.3;
-}
-
-.bgaudio:hover{
-    opacity: 1;
+    opacity: 0;
 }
 
 .awardlist{
     margin-top: -15%;
+    opacity: 0.5;
 }
 
 .synopsis{
@@ -48,4 +45,20 @@
     float: left;
     margin-top: 20%;
     margin-left: -5%;
+}
+
+#section0 p{
+    color: bisque;
+    font-size: 30px;
+    font-family: 'Rancho', cursive;
+}
+
+@keyframes homepage {
+    from {opacity: 0;}
+    to {opacity: 0.9;}
+}
+
+.homeanimation{
+    animation-name: homepage;
+    animation-duration: 10s;
 }

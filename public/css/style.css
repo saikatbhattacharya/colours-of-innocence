@@ -95,7 +95,7 @@ h1,h2,h3,h4,h5,h6 {
 	font-family: 'Josefin Sans', sans-serif;
 }
 p {
-	font-family: 'Arimo', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 }
 .overlay {
 	top: 0;
@@ -342,11 +342,12 @@ p {
 }
 .navbar-custom .navbar-nav li a {
 	color: #fff;
-    font-size: 18px;
+    font-size: 14px;
     margin: 5px 0px;
-    font-weight: 700;
+    font-weight: 400;
     letter-spacing: 1px;
     text-transform: capitalize;
+	opacity: 0.8;
     font-family: 'Josefin Sans', sans-serif;
 }
 .navbar-custom .nav>li>a:hover, .navbar-custom .nav>li>a:focus {
