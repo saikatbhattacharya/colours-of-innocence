@@ -48,6 +48,30 @@
     margin-left: -5%;
 }
 
+.producer{
+    margin-left: -5%;
+}
+
+.producer p{
+    width: 65%;
+    text-align: left;
+    float: right;
+    padding: 1%;
+}
+
+.producer img{
+    width: 15%;
+    margin-top: 5%;
+}
+
+.producer h1{
+    transform: rotate(-90deg);
+    color: #DEEA6E;
+    float: left;
+    margin-top: 20%;
+    margin-left: -5%;
+}
+
 #section0 p{
     color: bisque;
     font-size: 30px;
