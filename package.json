@@ -1,0 +1,15 @@
+{
+  "name": "coi",
+  "version": "1.0.0",
+  "description": "##Responsive Mobile & Flat Design  Own Carousel & Bootstrap Framework CSS  Font Icon Svg & Animate",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "saikat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
