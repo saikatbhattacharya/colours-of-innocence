@@ -79,7 +79,7 @@
     transform: rotate(-90deg);
     color: #20B2AA;
     float: left;
-    margin-top: 0%;
+    margin-top: 25%;
     margin-left: 0%;
     text-shadow: 2px 2px black;
 }
@@ -122,4 +122,14 @@ p{
     float: right !important;
     color: antiquewhite;
     text-shadow: 1px 1px black !important;
+}
+
+.castClass{
+    display: inline-grid !important;
+    float: left;
+}
+
+.crewClass{
+    display: inline-grid !important;
+    float: right;
 }
